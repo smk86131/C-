@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\bin\Debug\Basic0609.exe.config
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\bin\Debug\Basic0609.exe
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\bin\Debug\Basic0609.pdb
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\obj\Debug\Basic0609.csprojAssemblyReference.cache
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\obj\Debug\Basic0609.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\obj\Debug\Basic0609.exe
+C:\Users\KB\Documents\c#\Basic0609\Basic0609\obj\Debug\Basic0609.pdb
