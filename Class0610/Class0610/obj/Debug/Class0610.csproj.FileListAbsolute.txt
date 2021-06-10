@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\c#\Class0610\Class0610\bin\Debug\Class0610.exe.config
+C:\Users\KB\Documents\c#\Class0610\Class0610\bin\Debug\Class0610.exe
+C:\Users\KB\Documents\c#\Class0610\Class0610\bin\Debug\Class0610.pdb
+C:\Users\KB\Documents\c#\Class0610\Class0610\obj\Debug\Class0610.csprojAssemblyReference.cache
+C:\Users\KB\Documents\c#\Class0610\Class0610\obj\Debug\Class0610.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\c#\Class0610\Class0610\obj\Debug\Class0610.exe
+C:\Users\KB\Documents\c#\Class0610\Class0610\obj\Debug\Class0610.pdb
