@@ -1,0 +1,10 @@
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\bin\Debug\WriteLogFile.exe.config
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\bin\Debug\WriteLogFile.exe
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\bin\Debug\WriteLogFile.pdb
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.Form1.resources
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.Properties.Resources.resources
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.exe
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.pdb
+C:\Users\KB\source\repos\WindowsFormsApp3\WriteLogFile\obj\Debug\WriteLogFile.csprojAssemblyReference.cache
